@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { Clock } from './components/Clock';
 import { PomodoroTimer } from './components/PomodoroTimer';
 import { TodoList } from './components/TodoList';
